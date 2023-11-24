@@ -4,6 +4,6 @@ minimale hard- en software waarmee aangetoond wordt dat duplex kan gecommuniceer
 ### configuratie
 
 ### opmerkingen
-
+Zie datasheet voor onderdelen
 ### gebruiksaanwijzing
 
