@@ -2,4 +2,4 @@
 
 minimale hard- & software die aantoont dat 2 motoren onafhankelijk van elkaar kunnen draaien, en (traploos) regelbaar zijn in snelheid en draairichting.
 
-Voor datasheet bekijk Datasheet map
+Zie datasheet voor onderdelen
